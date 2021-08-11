@@ -10,25 +10,33 @@ Scripts de instalación y actualización para el gestor de paquetes Chocolatey.
 ## Comenzando 🚀
 
 Clonar el repositorio github, desde Github Desktop o ejecutar en la terminal o CMD:
-<!-- cambia el link de abajo al de tu repositorio y BORRA ESTE COMENTARIO -->
+
 ```
 git clone https://github.com/ET12DE1Computacion/choco
 ```
 
 ### Pre-requisitos 📋
 
+- Windows 7+ / Windows Server 2003+
 - PowerShell v2+
 - Microsoft .NET Framework 4.x
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre que cosas se debe instalar, configurar y como hacer deploy_
+### Instalación Chocolatey
+
+1. Abrir **PowerShell** en modo Administrador.
+1. Verificar que se tengan los permisos administrativos con el comando: `Get-ExecutionPolicy`
+    1. Si retorna `Restricted` entonces ejecutar el comando: `Set-ExecutionPolicy AllSigned`.
+1. Copiar y ejecutar el siguiente comando:
+
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+```
 
 ## Construido con 🛠️
 
-_Menciona las herramientas y versiones que utilizaste para crear tu proyecto_
-
-* [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
+- [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
 
 ## Versionado 📌
 
@@ -36,8 +44,8 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Autores ✒️
 
-* **Jonathan Velazquez** - *El que trajó la data* - [jonathanvgms](https://github.com/jonathanvgms)
-* **Luis Duran** - *I+D* - [luchoxx87](https://github.com/luchoxx87)
+- **Jonathan Velazquez** - *El que trajó la data* - [jonathanvgms](https://github.com/jonathanvgms)
+- **Luis Duran** - *I+D* - [luchoxx87](https://github.com/luchoxx87)
 
 ## Licencia 📄
 
