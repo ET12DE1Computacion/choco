@@ -57,3 +57,6 @@ choco install notepadplusplus.install -y
 
 # <Virtual Box>
 choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
+
+# <HeidiSQL>
+choco install heidisql -y
