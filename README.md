@@ -34,6 +34,18 @@ git clone https://github.com/ET12DE1Computacion/choco
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
+### Instalación Paquetes
+
+- En **Powershell** (iniciado como *Administrador*) ejecutar el script `install.ps1`.
+
+### Actualización de Paquetes
+
+- En **Powershell** (iniciado como *Administrador*) ejecutar el comando:
+
+```powershell
+choco upgrade all
+```
+
 ## Construido con 🛠️
 
 - [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.

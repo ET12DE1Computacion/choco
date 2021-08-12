@@ -34,9 +34,6 @@ choco install github-desktop -y
 # <Sublime 4>
 choco install sublimetext4 -y
 
-# <Virtual Box>
-choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
-
 # <Google Chrome>
 choco install googlechrome -y
 
@@ -57,3 +54,6 @@ choco install jre8 -PackageParameters "/exclude:32" -y
 
 # <Notepad++>
 choco install notepadplusplus.install -y
+
+# <Virtual Box>
+choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
