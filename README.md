@@ -43,7 +43,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 - En **Powershell** (iniciado como *Administrador*) ejecutar el comando:
 
 ```powershell
-choco upgrade all
+choco upgrade all -y
 ```
 
 ## Construido con 🛠️
