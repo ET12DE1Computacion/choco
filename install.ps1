@@ -60,3 +60,12 @@ choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
 
 # <HeidiSQL>
 choco install heidisql -y
+
+# <Dia>
+choco install dia -y
+
+# <Orwell Dev-C++>
+choco install orwelldevcpp -y
+
+# <Geogebra Clasico 6>
+choco install geogebra-classic.install -y
