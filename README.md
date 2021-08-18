@@ -50,6 +50,32 @@ choco upgrade all -y
 
 - [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) - Editor de código.
 
+## Programas que instala nuestro 🍫 script
+
+1. Chocolatey GUI
+1. Hugo Extended
+1. Winscp
+1. 7zip
+1. Paint.net
+1. Firefox
+1. Vs Code
+1. Vs Code - C# Extension
+1. Git
+1. Github Desktop
+1. Sublime 4
+1. Google Chrome
+1. .NET5
+1. Putty
+1. Godot
+1. VLC
+1. Java Runtime x64
+1. Notepad++
+1. HeidiSQL
+1. Dia
+1. Orwell Dev-C++
+1. Geogebra Clasico 6
+1. Virtual Box
+
 ## Versionado 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ET12DE1Computacion/choco/tags).
