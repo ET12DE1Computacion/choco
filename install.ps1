@@ -1,3 +1,4 @@
+# <V1.000>
 # <Habilita que los parametros de install se usen tambien para upgrade>
 choco feature enable -n=useRememberedArgumentsForUpgrades
 
@@ -55,9 +56,6 @@ choco install jre8 -PackageParameters "/exclude:32" -y
 # <Notepad++>
 choco install notepadplusplus.install -y
 
-# <Virtual Box>
-choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
-
 # <HeidiSQL>
 choco install heidisql -y
 
@@ -69,3 +67,6 @@ choco install orwelldevcpp -y
 
 # <Geogebra Clasico 6>
 choco install geogebra-classic.install -y
+
+# <Virtual Box, dejar siempre para lo ultimo, a veces cuelga, hay que cancelar pero se instala>
+choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y

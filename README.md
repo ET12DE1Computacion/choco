@@ -52,7 +52,7 @@ choco upgrade all -y
 
 ## Versionado 📌
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tuUser/tuRepo/tags).
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/ET12DE1Computacion/choco/tags).
 
 ## Autores ✒️
 
@@ -61,4 +61,4 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está bajo la Licencia __GNU GENERAL PUBLIC LICENSE V3__ - mira el archivo [LICENSE](LICENSE) para detalles.
