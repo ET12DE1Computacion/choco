@@ -38,6 +38,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 - En **Powershell** (iniciado como *Administrador*) ejecutar el script `install.ps1`.
 
+### Instalación Extensiones Visual Studio Code
+
+- En **Powershell** del *Visual Studio Code* ejecutar el comando `cat extensionesVSC.txt |% { code --install-extension $_}`.
+
 ### Actualización de Paquetes
 
 - En **Powershell** (iniciado como *Administrador*) ejecutar el comando:
@@ -75,6 +79,21 @@ choco upgrade all -y
 1. Orwell Dev-C++
 1. Geogebra Clasico 6
 1. Virtual Box
+
+## Extensiones de Visual Studio Code
+
+1. C/C++
+1. C#
+1. C# Extensions
+1. C# XML Documentation Comments
+1. HTML CSS Support
+1. indent-rainbow
+1. Live Server
+1. MySQL
+1. NuGet Package Manager
+1. Pack Español
+1. Thunder Client
+1. vscode-solution-explorer
 
 ## Versionado 📌
 

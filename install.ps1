@@ -1,4 +1,4 @@
-# <V1.0.0>
+# <V1.1.0>
 # <Habilita que los parametros de install se usen tambien para upgrade>
 choco feature enable -n=useRememberedArgumentsForUpgrades
 
