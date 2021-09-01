@@ -46,6 +46,10 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 cat extensionesVSC.txt |% { code --install-extension $_}
 ```
 
+### Instalación Imágenes Computación
+
+Descomprimir `Pictures.7z` en Imágenes con una de las *clásicas* contraseñas.
+
 ### Actualización de Paquetes
 
 - En **Powershell** (iniciado como *Administrador*) ejecutar el comando:
