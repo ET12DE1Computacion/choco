@@ -40,7 +40,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 
 ### Instalación Extensiones Visual Studio Code
 
-- En **Powershell** del *Visual Studio Code* ejecutar el comando `cat extensionesVSC.txt |% { code --install-extension $_}`.
+- En **Powershell** del *Visual Studio Code* ejecutar el comando:
+
+```powershell
+cat extensionesVSC.txt |% { code --install-extension $_}
+```
 
 ### Actualización de Paquetes
 
