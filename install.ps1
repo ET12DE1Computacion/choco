@@ -5,7 +5,7 @@ choco feature enable -n=useRememberedArgumentsForUpgrades
 # <Chocolatey GUI>
 choco install chocolateygui --params "/DefaultToDarkMode /PreventAutomatedOutdatedPackagesCheck" -y
 
-# <hugo>
+# <hugo extendido>
 choco install hugo-extended  -y
 
 # <Winscp>
@@ -23,13 +23,10 @@ choco install Firefox --params "/l:es-AR /NoTaskbarShortcut /NoDesktopShortcut /
 # <Vs Code>
 choco install vscode --params "/NoDesktopIcon /NoQuicklaunchIcon"  -y
 
-# <Vs Code - C# Extension>
-choco install vscode-csharp -y
-
 # <git>
 choco install git -y
 
-# <Github Desktop>
+# <GitHub Desktop>
 choco install github-desktop -y
 
 # <Sublime 4>
@@ -67,6 +64,9 @@ choco install orwelldevcpp -y
 
 # <Geogebra Clasico 6>
 choco install geogebra-classic.install -y
+
+# <GitHub CLI>
+choco install gh
 
 # <Virtual Box, dejar siempre para lo ultimo, a veces cuelga, hay que cancelar pero se instala>
 choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
