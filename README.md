@@ -71,9 +71,8 @@ choco upgrade all -y
 1. Paint.net
 1. Firefox
 1. Vs Code
-1. Vs Code - C# Extension
 1. Git
-1. Github Desktop
+1. GitHub Desktop
 1. Sublime 4
 1. Google Chrome
 1. .NET5
@@ -86,6 +85,7 @@ choco upgrade all -y
 1. Dia
 1. Orwell Dev-C++
 1. Geogebra Clasico 6
+1. GitHub CLI
 1. Virtual Box
 
 ## Extensiones de Visual Studio Code
