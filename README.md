@@ -102,6 +102,7 @@ choco upgrade all -y
 1. Pack Español
 1. Thunder Client
 1. vscode-solution-explorer
+1. Draw.io Integration
 
 ## Versionado 📌
 
