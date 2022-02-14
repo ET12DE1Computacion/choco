@@ -38,6 +38,9 @@ choco install googlechrome -y
 # <.net 5>
 choco install dotnet-5.0-sdk -y
 
+# <.net 6>
+choco install dotnet -y
+
 # <putty>
 choco install putty.install -y
 

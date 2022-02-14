@@ -76,6 +76,7 @@ choco upgrade all -y
 1. Sublime 4
 1. Google Chrome
 1. .NET5
+1. .NET6
 1. Putty
 1. Godot
 1. VLC
