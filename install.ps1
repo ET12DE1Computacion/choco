@@ -69,7 +69,10 @@ choco install orwelldevcpp -y
 choco install geogebra-classic.install -y
 
 # <GitHub CLI>
-choco install gh
+choco install gh -y
+
+# <Thonny (IDE Python)>
+choco install thonny -y
 
 # <Virtual Box, dejar siempre para lo ultimo, a veces cuelga, hay que cancelar pero se instala>
 choco install virtualbox --params "/NoDesktopShortcut /NoQuickLaunch" -y
