@@ -66,32 +66,20 @@ choco upgrade all -y
 
 1. Chocolatey GUI
 1. Hugo Extended
-1. Winscp
 1. 7zip
-1. Paint.net
 1. Firefox
 1. Vs Code
 1. Git
 1. GitHub Desktop
-1. Sublime 4
 1. Google Chrome
 1. .NET5
 1. .NET6
-1. Putty
-1. Godot
-1. VLC
 1. Java Runtime x64
-1. Notepad++
 1. HeidiSQL
-1. Dia
-1. Orwell Dev-C++
-1. Geogebra Clasico 6
 1. GitHub CLI
-1. Virtual Box
 
 ## Extensiones de Visual Studio Code
 
-1. C/C++
 1. C#
 1. C# Extensions
 1. C# XML Documentation Comments
