@@ -1,0 +1,47 @@
+{
+    "fernandoescolar.vscode-solution-explorer": {
+        "uuid": "937fa76c-0fd7-4e54-a4d3-d78b07f2d725",
+        "label": "vscode-solution-explorer",
+        "description": "Visual Studio .sln file explorer for Visual Studio Code"
+    },
+    "oderwat.indent-rainbow": {
+        "uuid": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b",
+        "label": "indent-rainbow",
+        "description": "Makes indentation easier to read"
+    },
+    "codezombiech.gitignore": {
+        "uuid": "3e891cf9-53cb-49a3-8d01-8f0b1f0afb29",
+        "label": "gitignore",
+        "description": "Lets you pull .gitignore templates from the https://github.com/github/gitignore repository. Language support for .gitignore files."
+    },
+    "ms-ceintl.vscode-language-pack-es": {
+        "uuid": "47e020a1-33db-4cc0-a1b4-42f97781749a",
+        "label": "Spanish Language Pack for Visual Studio Code",
+        "description": "Language pack extension for Spanish"
+    },
+    "jmrog.vscode-nuget-package-manager": {
+        "uuid": "6989d633-909b-4ca5-b499-7160e45a54d6",
+        "label": "NuGet Package Manager",
+        "description": "Add or remove .NET Core 1.1+ package references to/from your project's .csproj or .fsproj file using Code's Command Palette."
+    },
+    "evald24.vscode-extension-profiles": {
+        "uuid": "53b2c651-4404-420f-b62b-b9f8fc915c5a",
+        "label": "Extension profiles",
+        "description": "Lets you create profiles to include the selected extensions in the desired project."
+    },
+    "k--kato.docomment": {
+        "uuid": "d1a2eab4-aa6e-4094-93b3-6a007f60bd9d",
+        "label": "C# XML Documentation Comments",
+        "description": "Generate C# XML documentation comments for ///"
+    },
+    "kreativ-software.csharpextensions": {
+        "uuid": "80c8f9ff-3535-4b4a-b3db-e88f5752bb18",
+        "label": "C# Extensions",
+        "description": "C# IDE Extensions for VSCode"
+    },
+    "ms-dotnettools.csharp": {
+        "uuid": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
+        "label": "C#",
+        "description": "C# for Visual Studio Code (powered by OmniSharp)."
+    }
+}

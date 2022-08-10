@@ -1,0 +1,47 @@
+{
+    "oderwat.indent-rainbow": {
+        "uuid": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b",
+        "label": "indent-rainbow",
+        "description": "Makes indentation easier to read"
+    },
+    "ms-ceintl.vscode-language-pack-es": {
+        "uuid": "47e020a1-33db-4cc0-a1b4-42f97781749a",
+        "label": "Spanish Language Pack for Visual Studio Code",
+        "description": "Language pack extension for Spanish"
+    },
+    "kevinrose.vsc-python-indent": {
+        "uuid": "f3cbfb84-b1e1-40ff-b70f-877253461260",
+        "label": "Python Indent",
+        "description": "Correct Python indentation"
+    },
+    "ms-python.python": {
+        "uuid": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+        "label": "Python",
+        "description": "IntelliSense (Pylance), Linting, Debugging (multi-threaded, remote), Jupyter Notebooks, code formatting, refactoring, unit tests, and more."
+    },
+    "ms-python.vscode-pylance": {
+        "uuid": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+        "label": "Pylance",
+        "description": "A performant, feature-rich language server for Python in VS Code"
+    },
+    "ms-toolsai.jupyter-renderers": {
+        "uuid": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+        "label": "Jupyter Notebook Renderers",
+        "description": "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)"
+    },
+    "ms-toolsai.jupyter-keymap": {
+        "uuid": "9f6dc8db-620c-4844-b8c5-e74914f1be27",
+        "label": "Jupyter Keymap",
+        "description": "Jupyter keymaps for notebooks"
+    },
+    "ms-toolsai.jupyter": {
+        "uuid": "6c2f1801-1e7f-45b2-9b5c-7782f1e076e8",
+        "label": "Jupyter",
+        "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more."
+    },
+    "evald24.vscode-extension-profiles": {
+        "uuid": "53b2c651-4404-420f-b62b-b9f8fc915c5a",
+        "label": "Extension profiles",
+        "description": "Lets you create profiles to include the selected extensions in the desired project."
+    }
+}

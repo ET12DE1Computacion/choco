@@ -1,0 +1,27 @@
+{
+    "oderwat.indent-rainbow": {
+        "uuid": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b",
+        "label": "indent-rainbow",
+        "description": "Makes indentation easier to read"
+    },
+    "ms-ceintl.vscode-language-pack-es": {
+        "uuid": "47e020a1-33db-4cc0-a1b4-42f97781749a",
+        "label": "Spanish Language Pack for Visual Studio Code",
+        "description": "Language pack extension for Spanish"
+    },
+    "cweijan.vscode-mysql-client2": {
+        "uuid": "c0fde3ce-39d4-4ea8-89ce-e2a202eeacaf",
+        "label": "MySQL",
+        "description": "Database manager for MySQL/MariaDB, PostgreSQL, SQLite, Redis and ElasticSearch."
+    },
+    "evald24.vscode-extension-profiles": {
+        "uuid": "53b2c651-4404-420f-b62b-b9f8fc915c5a",
+        "label": "Extension profiles",
+        "description": "Lets you create profiles to include the selected extensions in the desired project."
+    },
+    "dineug.vuerd-vscode": {
+        "uuid": "8dbb7b71-9fc1-4b51-a9dd-460bf407d574",
+        "label": "ERD Editor",
+        "description": "ERD Editor vscode extension"
+    }
+}

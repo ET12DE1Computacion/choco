@@ -75,7 +75,6 @@ choco upgrade all -y
 1. GitHub Desktop
 1. Sublime 4
 1. Google Chrome
-1. .NET5
 1. .NET6
 1. Putty
 1. Godot
@@ -95,15 +94,21 @@ choco upgrade all -y
 1. C#
 1. C# Extensions
 1. C# XML Documentation Comments
+1. Draw.io Integration
+1. ERD Editor
+1. EsLint
+1. Extension profiles
+1. gitignore
 1. HTML CSS Support
 1. indent-rainbow
 1. Live Server
 1. MySQL
 1. NuGet Package Manager
 1. Pack Español
+1. Python y Pylance
 1. Thunder Client
 1. vscode-solution-explorer
-1. Draw.io Integration
+1. yUML
 
 ## Versionado 📌
 

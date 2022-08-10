@@ -1,4 +1,4 @@
-# <V1.2>
+# <V1.3>
 # <Habilita que los parametros de install se usen tambien para upgrade>
 choco feature enable -n=useRememberedArgumentsForUpgrades
 
@@ -34,9 +34,6 @@ choco install sublimetext4 -y
 
 # <Google Chrome>
 choco install googlechrome -y
-
-# <.net 5>
-choco install dotnet-5.0-sdk -y
 
 # <.net 6>
 choco install dotnet-6.0-sdk -y
