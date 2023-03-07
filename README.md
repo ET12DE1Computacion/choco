@@ -1,6 +1,6 @@
 <h1 align="center">E.T. Nº12 D.E. 1º "Libertador Gral. José de San Martín"</h1>
 <p align="center">
-  <img src="https://et12.edu.ar/imgs/et12.png">
+  <img src="https://et12.edu.ar/imgs/computacion/VamoAProgramaBanner.png">
 </p>
 
 # Scripts 🍫
