@@ -8,6 +8,9 @@ choco install chocolateygui --params "/DefaultToDarkMode /PreventAutomatedOutdat
 # <hugo extendido>
 choco install hugo-extended  -y
 
+# <golang>
+choco install golang -y
+
 # <Winscp>
 choco install winscp  -y
 
