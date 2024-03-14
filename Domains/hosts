@@ -1,0 +1,60 @@
+127.0.0.1	localhost
+127.0.1.1	lab19-00
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+127.0.0.1 store.steampowered.com # blocked by mintNanny
+127.0.0.1 friv.com # blocked by mintNanny
+127.0.0.1 www.friv.com # blocked by mintNanny
+127.0.0.1 agar.io # blocked by mintNanny
+127.0.0.1 www.agar.io # blocked by mintNanny
+127.0.0.1 1001juegos.com # blocked by mintNanny
+127.0.0.1 www.1001juegos.com # blocked by mintNanny
+127.0.0.1 shellshock.io # blocked by mintNanny
+127.0.0.1 www.shellshock.io # blocked by mintNanny
+127.0.0.1 krunker.io # blocked by mintNanny
+127.0.0.1 www.krunker.io # blocked by mintNanny
+127.0.0.1 miniplay.com # blocked by mintNanny
+127.0.0.1 www.miniplay.com # blocked by mintNanny
+127.0.0.1 es.y8.com # blocked by mintNanny
+127.0.0.1 minijuegos.com # blocked by mintNanny
+127.0.0.1 www.minijuegos.com # blocked by mintNanny
+127.0.0.1 pokemonshowdown.com # blocked by mintNanny
+127.0.0.1 www.pokemonshowdown.com # blocked by mintNanny
+127.0.0.1 fr9.es # blocked by mintNanny
+127.0.0.1 www.fr9.es # blocked by mintNanny
+127.0.0.1 juegosdiarios.com # blocked by mintNanny
+127.0.0.1 www.juegosdiarios.com # blocked by mintNanny
+127.0.0.1 venge.io # blocked by mintNanny
+127.0.0.1 www.venge.io # blocked by mintNanny
+127.0.0.1 poki.com # blocked by mintNanny
+127.0.0.1 www.poki.com # blocked by mintNanny
+127.0.0.1 garticphone.com # blocked by mintNanny
+127.0.0.1 www.garticphone.com # blocked by mintNanny
+127.0.0.1 frivlegend.com # blocked by mintNanny
+127.0.0.1 www.frivlegend.com # blocked by mintNanny
+127.0.0.1 gameflare.com # blocked by mintNanny
+127.0.0.1 www.gameflare.com # blocked by mintNanny
+127.0.0.1 primarygames.com # blocked by mintNanny
+127.0.0.1 www.primarygames.com # blocked by mintNanny
+127.0.0.1 gamepix.com # blocked by mintNanny
+127.0.0.1 www.gamepix.com # blocked by mintNanny
+127.0.0.1 crazygames.com # blocked by mintNanny
+127.0.0.1 www.crazygames.com # blocked by mintNanny
+127.0.0.1 playbelline.com # blocked by mintNanny
+127.0.0.1 www.playbelline.com # blocked by mintNanny
+127.0.0.1 funnygames.org # blocked by mintNanny
+127.0.0.1 www.funnygames.org # blocked by mintNanny
+127.0.0.1 kizi.com # blocked by mintNanny
+127.0.0.1 www.kizi.com # blocked by mintNanny
+127.0.0.1 store.epicgames.com # blocked by mintNanny
+127.0.0.1 friv5online.com # blocked by mintNanny
+127.0.0.1 www.friv5online.com # blocked by mintNanny
+127.0.0.1 Deadshot.io # blocked by mintNanny
+127.0.0.1 www.Deadshot.io # blocked by mintNanny
+127.0.0.1 haxball.com # blocked by mintNanny
+127.0.0.1 www.haxball.com # blocked by mintNanny
