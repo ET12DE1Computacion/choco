@@ -71,3 +71,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.friv2online.com # blocked by mintNanny
 127.0.0.1 ruffle.rs # blocked by mintNanny
 127.0.0.1 www.ruffle.rs # blocked by mintNanny
+127.0.0.1 www.unagilada.net
