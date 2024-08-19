@@ -77,3 +77,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.bulletbonanza.io
 127.0.0.1 www.neal.fun # blocked by mintNanny
 127.0.0.1 splix.io # blocked by mintNanny
+127.0.0.1 loldodgegame.com # blocked by mintNanny
+127.0.0.1 lostgamer.io # blocked by mintNanny
