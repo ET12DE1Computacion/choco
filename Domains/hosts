@@ -81,4 +81,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 lostgamer.io # blocked by mintNanny
 127.0.0.1 play-cs.com # blocked by mintNanny
 127.0.0.1 pelotalibre.org # blocked by mintNanny
-
+127.0.0.1 juegosjuegos.com # blocked by mintNanny
+127.0.0.1 pelotalibre.pe # blocked by mintNanny
+127.0.0.1 pelotalibretv.com # blocked by mintNanny
+127.0.0.1 librefutbol.su # blocked by mintNanny
+127.0.0.1 disneyplus.com # blocked by mintNanny
