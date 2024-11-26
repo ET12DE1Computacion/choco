@@ -100,3 +100,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 speedrun.com # blocked by mintNanny
 127.0.0.1 juegosarea.com # blocked by mintNanny
 127.0.0.1 basketrandom.com # blocked by mintNanny
+127.0.0.1 op.gg # blocked by mintNanny
+127.0.0.1 tracker.gg # blocked by mintNanny
+127.0.0.1 rhythm-plus.com # blocked by mintNanny
