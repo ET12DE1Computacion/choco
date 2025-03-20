@@ -107,3 +107,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 playretrogames.online # blocked by mintNanny
 127.0.0.1 stumbleguys.com # blocked by mintNanny
 127.0.0.1 tetris.com # blocked by mintNanny
+127.0.0.1 seriusgames # blocked by mintNanny
+127.0.0.1 tetrismania.net # blocked by mintNanny
