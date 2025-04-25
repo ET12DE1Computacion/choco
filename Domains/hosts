@@ -112,3 +112,5 @@ ff02::2 ip6-allrouters
 127.0.0.1 fearandhunger.net # blocked by mintNanny
 127.0.0.1 playpokerogue.com # blocked by mintNanny
 127.0.0.1 freelinuxpcgames.com # blocked by mintNanny
+127.0.0.1 retrogames.cz # blocked by mintNanny
+127.0.0.1 sevencrane.itch.io # blocked by mintNanny
