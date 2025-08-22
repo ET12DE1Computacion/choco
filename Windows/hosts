@@ -20,5 +20,6 @@
 #	127.0.0.1       localhost
 #	::1             localhost
 
-127.0.0.1 asdasdasd1.com.ar
-127.0.0.1 asdasdasd2.com.ar
+127.0.0.1 neal.fun # blocked by mintNanny
+127.0.0.1 wplace.live # blocked by mintNanny
+127.0.0.1 juegos.agency # blocked by mintNanny
