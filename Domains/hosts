@@ -128,3 +128,11 @@ ff02::2 ip6-allrouters
 127.0.0.1 smashkarts.io # blocked by mintNanny 10-4-26
 127.0.0.1 bruh.io # blocked by mintNanny
 127.0.0.1 skribbl.io # blocked by mintNanny
+127.0.0.1 Agar.io # blocked by mintNanny
+127.0.0.1 Agar2.com # blocked by mintNanny
+127.0.0.1 Slither.io # blocked by mintNanny
+127.0.0.1 Snake.io # blocked by mintNanny
+127.0.0.1 Paper.io # blocked by mintNanny
+127.0.0.1 Hole.io # blocked by mintNanny
+127.0.0.1 Gidd.io # blocked by mintNanny
+
