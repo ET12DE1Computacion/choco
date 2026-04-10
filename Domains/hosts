@@ -127,3 +127,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 2v2.io # blocked by mintNanny
 127.0.0.1 smashkarts.io # blocked by mintNanny 10-4-26
 127.0.0.1 bruh.io # blocked by mintNanny
+127.0.0.1 skribbl.io # blocked by mintNanny
