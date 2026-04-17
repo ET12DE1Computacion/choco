@@ -136,7 +136,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 paperio.site # blocked by mintNanny
 127.0.0.1 Hole.io # blocked by mintNanny
 127.0.0.1 Gidd.io # blocked by mintNanny
-127.0.0.1 www.isladejuegos.com # blocked by mintNanny
 127.0.0.1 gameforge.com # blocked by mintNanny
 127.0.0.1 slither.com # blocked by mintNanny
 127.0.0.1 poki.com # blocked by mintNanny
