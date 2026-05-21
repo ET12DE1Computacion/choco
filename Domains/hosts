@@ -141,3 +141,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 poki.com # blocked by mintNanny
 127.0.0.1 lagged.com # blocked by mintNanny 15-4-26
 127.0.0.1 veck.io # blocked by mintNanny 18-4-26
+127.0.0.1 playpager.com # blocked by mintNanny 21-05-26
