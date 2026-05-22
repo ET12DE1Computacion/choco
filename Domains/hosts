@@ -144,3 +144,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 playpager.com # blocked by mintNanny 21-05-26
 127.0.0.1 www.kongregate.com # blocked by mintNanny 22-05-26
 127.0.0.1 www.juegos.com # blocked by mintNanny 
+127.0.0.1 www.juegosjuegos.ws # blocked by mintNanny 
+127.0.0.1 itch.io # blocked by mintNanny 
+127.0.0.1 www.rocketgames.io # blocked by mintNanny 
+
