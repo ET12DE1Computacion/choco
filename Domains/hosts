@@ -147,4 +147,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.juegosjuegos.ws # blocked by mintNanny 
 127.0.0.1 itch.io # blocked by mintNanny 
 127.0.0.1 www.rocketgames.io # blocked by mintNanny 
-
+127.0.0.1 www.basketball-stars.io # blocked by mintNanny 
