@@ -156,3 +156,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 one.sigmally.com # blocked by mintNanny
 127.0.0.1 play.google.com
 127.0.0.1 games.google.com
+127.0.0.1 evowars.io # blocked by mintNanny
