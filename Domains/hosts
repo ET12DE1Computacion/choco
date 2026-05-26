@@ -158,3 +158,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 games.google.com
 127.0.0.1 evowars.io # blocked by mintNanny
 127.0.0.1 pokelike.xyz # blocked by mintNanny
+127.0.0.1 agaronline.io # blocked by mintNanny
