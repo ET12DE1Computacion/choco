@@ -149,3 +149,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.rocketgames.io # blocked by mintNanny 
 127.0.0.1 basketball-stars.io # blocked by mintNanny 
 127.0.0.1 fuegoyagua.es # blocked by mintNanny 26-05-26
+127.0.0.1 diep.io # blocked by mintNanny
