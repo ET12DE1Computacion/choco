@@ -162,3 +162,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.worldguessr.com # blocked by mintNanny
 127.0.0.1 www.openguessr.com # blocked by mintNanny
 127.0.0.1 pokedoku.com # blocked by mintNanny 28-5-26
+127.0.0.1 juegos.games # blocked by mintNanny
