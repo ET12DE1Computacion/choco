@@ -163,7 +163,7 @@ ff02::2 ip6-allrouters
 127.0.0.1 www.openguessr.com # blocked by mintNanny
 127.0.0.1 pokedoku.com # blocked by mintNanny 28-5-26
 127.0.0.1 juegos.games # blocked by mintNanny
-127.0.0.1 https://www.google.com/search?q=juegos 29-5-26
+127.0.0.1 https://www.google.com/search?q=juegos # blocked by mintNanny 29-5-26
 127.0.0.1 https://www.google.com/search?q=snake
 127.0.0.1 https://www.google.com/search?q=solitario
 127.0.0.1 www.cokitos.com # blocked by mintNanny
