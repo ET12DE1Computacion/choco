@@ -167,3 +167,4 @@ ff02::2 ip6-allrouters
 127.0.0.1 https://www.google.com/search?q=snake
 127.0.0.1 https://www.google.com/search?q=solitario
 127.0.0.1 www.cokitos.com # blocked by mintNanny
+127.0.0.1 poki.com # blocked by mintNanny
