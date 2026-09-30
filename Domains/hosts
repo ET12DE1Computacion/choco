@@ -412,3 +412,6 @@ ff02::2 ip6-allrouters
 127.0.0.1 addons.mozilla.org
 127.0.0.1 www.geoguessr.com
 127.0.0.1 optijuegos.net
+127.0.0.1 chromewebstore.google.com
+127.0.0.1 chrome-extension
+127.0.0.1 chrome
