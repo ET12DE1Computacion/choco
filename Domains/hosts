@@ -481,6 +481,8 @@ ff02::2 ip6-allrouters
 127.0.0.1 geometrydash-pc 
 127.0.0.1 geometry-dashpc.io
 127.0.0.1 geometrydash.com
+127.0.0.1 geometrydash-lite.io
+127.0.0.1 www.geometrydash.com
 127.0.0.1 www.macrojuegos.com
 127.0.0.1 chatgpt.com
 127.0.0.1 gemini.google.com
